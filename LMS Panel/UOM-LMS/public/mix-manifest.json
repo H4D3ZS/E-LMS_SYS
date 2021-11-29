@@ -1,0 +1,14 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/uom/css/std-login.css": "/uom/css/std-login.css",
+    "/uom/js/std-login.js": "/uom/js/std-login.js",
+    "/uom/css/teach-home.css": "/uom/css/teach-home.css",
+    "/uom/js/teach-home.js": "/uom/js/teach-home.js",
+    "/uom/css/std-home.css": "/uom/css/std-home.css",
+    "/uom/js/std-home.js": "/uom/js/std-home.js",
+    "/uom/css/teach-profile.css": "/uom/css/teach-profile.css",
+    "/uom/js/teach-profile.js": "/uom/js/teach-profile.js",
+    "/uom/css/admin-home.css": "/uom/css/admin-home.css",
+    "/uom/js/admin-home.js": "/uom/js/admin-home.js"
+}

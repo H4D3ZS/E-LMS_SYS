@@ -1,0 +1,13 @@
+.navbar-nav.navbar-center { 
+      position: absolute; 
+      left: 50%; 
+      transform: translatex(-50%); 
+    } 
+    li{
+    font-family: BEBAS NEUE;
+    font-size: 18px;
+    padding-left: 5px;
+    }
+    .logo-text{
+      font-family: Montserrat;
+    }
